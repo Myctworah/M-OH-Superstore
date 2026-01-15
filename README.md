@@ -192,7 +192,9 @@ This project demonstrates how multi-granular sales data can be transformed into 
 
 ##  Author
 **Hassan Mistura Olaitan**
+
 *Data Analyst*
+
 PowerBi | Data Cleaning | Data Modelling | Data Analysis | Data Visualization
 
 
